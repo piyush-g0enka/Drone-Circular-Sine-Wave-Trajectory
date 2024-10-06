@@ -14,14 +14,6 @@ This repository contains C++ code to control a MODAL AI VOXL2 drone, making it p
 2. **ROS2** ROS2 installed on the drone's computer
 3. **PX4**: PX4 ROS2 packages 
 
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/Drone_Circular_Trajectory.git
-cd Drone_Circular_Trajectory
-'''
 
 ### Image
 ![Drone Circular Trajectory]([https://www.youtube.com/watch?v=jx8FvLK_zhY]
@@ -31,4 +23,14 @@ cd Drone_Circular_Trajectory
 
 ### YouTube Video
 [![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
+
+
+## Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/yourusername/Drone_Circular_Trajectory.git
+cd Drone_Circular_Trajectory
+
 
