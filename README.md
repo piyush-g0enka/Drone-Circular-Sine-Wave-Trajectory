@@ -2,6 +2,9 @@
 
 This repository contains C++ code to control a MODAL AI VOXL2 drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. 
 
+### Demonstration
+![Drone Circular Trajectory](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)
+
 ## Features
 
 - **Circular-Helical Trajectory:** The drone follows a 3D path in the shape of a helix, maintaining a fixed radius in the horizontal plane while ascending or descending.
@@ -14,23 +17,13 @@ This repository contains C++ code to control a MODAL AI VOXL2 drone, making it p
 2. **ROS2** ROS2 installed on the drone's computer
 3. **PX4**: PX4 ROS2 packages 
 
-
-### Image
-![Drone Circular Trajectory]([https://www.youtube.com/watch?v=jx8FvLK_zhY]
-
-### GIF
-![Drone Trajectory GIF](path/to/trajectory.gif)
-
 ### YouTube Video
-[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
+[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/yt.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
 
 
-## Installation
+## Usage
 
-Clone this repository:
+Put the offboard_control.cpp file in a ROS2 package in the drone and run it in OFFBOARD mode
 
-```bash
-git clone https://github.com/yourusername/Drone_Circular_Trajectory.git
-cd Drone_Circular_Trajectory
 
 
