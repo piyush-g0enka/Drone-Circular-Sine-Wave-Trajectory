@@ -1,6 +1,6 @@
 # Drone Circular Sine-wave Trajectory
 
-This repository contains C++ code to control a MODAL AI VOXL2 m500 drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. 
+This repository contains modified offboard_control C++ code from px4_ros_com ROS2 package to control a MODAL AI VOXL2 m500 drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. 
 
 ## Demonstration
 ![Drone Circular Trajectory](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)
