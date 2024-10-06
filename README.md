@@ -1,8 +1,8 @@
-# Drone_Circular_Trajectory
+# Drone Circular Sine-wave Trajectory
 
 This repository contains C++ code to control a MODAL AI VOXL2 drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. 
 
-### Demonstration
+## Demonstration
 ![Drone Circular Trajectory](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)
 
 ## Features
@@ -17,7 +17,7 @@ This repository contains C++ code to control a MODAL AI VOXL2 drone, making it p
 2. **ROS2** ROS2 installed on the drone's computer
 3. **PX4**: PX4 ROS2 packages 
 
-### YouTube Video
+## YouTube Video
 [![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/yt.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
 
 
