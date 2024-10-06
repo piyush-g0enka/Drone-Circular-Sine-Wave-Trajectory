@@ -1,6 +1,6 @@
 # Drone_Circular_Trajectory
 
-This repository contains C++ code to control a MODAL AI drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. The code is designed for autonomous flight, enabling smooth and precise circular motion with real-time heading adjustments.
+This repository contains C++ code to control a MODAL AI VOXL2 drone, making it perform a circular-helical trajectory while maintaining its heading towards the center of the circle. 
 
 ## Features
 
@@ -11,8 +11,8 @@ This repository contains C++ code to control a MODAL AI drone, making it perform
 ## Prerequisites
 
 1. **MODAL AI Drone** with compatible flight controllers.
-2. **C++ Compiler** supporting C++11 or later.
-3. **Drone SDK**: Ensure the appropriate SDK for controlling the drone is installed and integrated.
+2. **ROS2** ROS2 installed on the drone's computer
+3. **PX4**: PX4 ROS2 packages 
 
 ## Installation
 
