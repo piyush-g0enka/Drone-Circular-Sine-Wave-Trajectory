@@ -21,3 +21,14 @@ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/Drone_Circular_Trajectory.git
 cd Drone_Circular_Trajectory
+
+
+### Image
+![Drone Circular Trajectory]([https://www.youtube.com/watch?v=jx8FvLK_zhY]
+
+### GIF
+![Drone Trajectory GIF](path/to/trajectory.gif)
+
+### YouTube Video
+[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/trajectory.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
+
