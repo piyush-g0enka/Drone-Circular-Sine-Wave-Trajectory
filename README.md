@@ -18,8 +18,11 @@ This repository contains modified offboard_control C++ code from px4_ros_com ROS
 3. **PX4**: PX4 ROS2 packages 
 
 ## YouTube Videos
+
+### Indoor - Drin Family Aerial Robotics Lab UMD
 [![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone-Circular-Sine-Wave-Trajectory/blob/main/imgs/yt_indoor.png)](https://www.youtube.com/watch?v=_OmnPVhhs-w)
 
+### Outdoor - Fearless Flight Facility UMD
 [![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone-Circular-Sine-Wave-Trajectory/blob/main/imgs/yt_outdoor.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
 
 
