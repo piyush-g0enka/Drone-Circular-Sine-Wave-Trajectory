@@ -19,7 +19,7 @@ This repository contains modified offboard_control C++ code from px4_ros_com ROS
 
 ## YouTube Videos
 
-### Indoor - Drin Family Aerial Robotics Lab UMD
+### Indoor - Brin Family Aerial Robotics Lab UMD
 [![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone-Circular-Sine-Wave-Trajectory/blob/main/imgs/yt_indoor.png)](https://www.youtube.com/watch?v=_OmnPVhhs-w)
 
 ### Outdoor - Fearless Flight Facility UMD
