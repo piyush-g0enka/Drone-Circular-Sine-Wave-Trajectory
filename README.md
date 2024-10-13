@@ -17,8 +17,10 @@ This repository contains modified offboard_control C++ code from px4_ros_com ROS
 2. **ROS2** ROS2 installed on the drone's computer
 3. **PX4**: PX4 ROS2 packages 
 
-## YouTube Video
-[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone_Circular_Trajectory/blob/main/yt.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
+## YouTube Videos
+[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone-Circular-Sine-Wave-Trajectory/blob/main/imgs/yt_indoor.png)](https://www.youtube.com/watch?v=_OmnPVhhs-w)
+
+[![Drone Circular Trajectory Video](https://github.com/piyush-g0enka/Drone-Circular-Sine-Wave-Trajectory/blob/main/imgs/yt_outdoor.png)](https://www.youtube.com/watch?v=jx8FvLK_zhY)
 
 
 ## Usage
